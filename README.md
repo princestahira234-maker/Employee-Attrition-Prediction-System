@@ -455,7 +455,8 @@ Employee Attrition Intelligence Platform demonstrates how Machine Learning can b
 
 By identifying employees at risk of attrition before turnover occurs, organizations can implement targeted retention strategies, reduce operational costs, and make informed HR decisions through predictive analytics.
 
-The platform demonstrates strong predictive performance with a ROC-AUC score of **0.857**, providing probability-based employee attrition risk insights through an interactive Streamlit HR Intelligence Dashboard.
+With a ROC-AUC score of **0.857**, the platform provides data-driven employee attrition risk assessment and probability-based insights through an interactive Streamlit HR Intelligence Dashboard.
+
 
 
 ---
